@@ -1,0 +1,14 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\UNSS1\8 семестър\klient_server\eLibrary_v3\eLibraryClient\eLibraryHost\bin\Debug\eLibraryHost.exe assembly's progress.
+The file is located at E:\UNSS1\8 семестър\klient_server\eLibrary_v3\eLibraryClient\eLibraryHost\bin\Debug\eLibraryHost.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\UNSS1\8 семестър\klient_server\eLibrary_v3\eLibraryClient\eLibraryHost\bin\Debug\eLibraryHost.exe assembly's progress.
+The file is located at E:\UNSS1\8 семестър\klient_server\eLibrary_v3\eLibraryClient\eLibraryHost\bin\Debug\eLibraryHost.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

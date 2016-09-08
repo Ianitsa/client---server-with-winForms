@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\UNSS1\8 семестър\klient_server\eLibrary_v3\eLibraryClient\eLibraryHost\bin\Debug\eLibraryHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UNSS1\8 семестър\klient_server\eLibrary_v3\eLibraryClient\eLibraryHost\bin\Debug\eLibraryHost.InstallLog
+   assemblypath = E:\UNSS1\8 семестър\klient_server\eLibrary_v3\eLibraryClient\eLibraryHost\bin\Debug\eLibraryHost.exe
+Installing service 1eLibraryHost...
+Service 1eLibraryHost has been successfully installed.
+Creating EventLog source 1eLibraryHost in log Application...
+Committing assembly 'E:\UNSS1\8 семестър\klient_server\eLibrary_v3\eLibraryClient\eLibraryHost\bin\Debug\eLibraryHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UNSS1\8 семестър\klient_server\eLibrary_v3\eLibraryClient\eLibraryHost\bin\Debug\eLibraryHost.InstallLog
+   assemblypath = E:\UNSS1\8 семестър\klient_server\eLibrary_v3\eLibraryClient\eLibraryHost\bin\Debug\eLibraryHost.exe
